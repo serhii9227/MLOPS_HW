@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1753184599538
+current_stage: Archived
+description: ''
+last_updated_timestamp: 1753193192781
+name: HateSpeechLSTM
+run_id: 8947c30d0711404c86efaa0b21ffcc88
+run_link: ''
+source: runs:/8947c30d0711404c86efaa0b21ffcc88/model
+status: READY
+status_message: null
+storage_location: runs:/8947c30d0711404c86efaa0b21ffcc88/model
+user_id: null
+version: 1

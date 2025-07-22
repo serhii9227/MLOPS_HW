@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/956329726251330969
+creation_time: 1753183066881
+experiment_id: '956329726251330969'
+last_update_time: 1753184283425
+lifecycle_stage: deleted
+name: Detect hate speech
+tags: {}

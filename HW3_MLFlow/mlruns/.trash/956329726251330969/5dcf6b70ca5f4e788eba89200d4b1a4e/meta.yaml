@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/956329726251330969/5dcf6b70ca5f4e788eba89200d4b1a4e/artifacts
+deleted_time: 1753184283425
+end_time: 1753183112164
+entry_point_name: ''
+experiment_id: '956329726251330969'
+lifecycle_stage: deleted
+run_id: 5dcf6b70ca5f4e788eba89200d4b1a4e
+run_name: amusing-grouse-376
+run_uuid: 5dcf6b70ca5f4e788eba89200d4b1a4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753183112091
+status: 4
+tags: []
+user_id: so

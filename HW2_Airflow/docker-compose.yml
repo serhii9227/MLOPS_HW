@@ -1,0 +1,16 @@
+services:
+  sleek-airflow:
+    build:
+      context: .
+      dockerfile: dockerfile
+    container_name: sleek-airflow
+    volumes:
+      - ./airflow:/opt/airflow
+    ports:
+      - "8080:8080"
+    command: airflow standalone
+    user: root
+
+  sleek-smtp:
+    image: bytemark/smtp
+    restart: always
