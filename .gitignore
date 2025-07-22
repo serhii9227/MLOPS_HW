@@ -12,3 +12,8 @@ env/
 # Python cache
 __pycache__/
 *.py[cod]
+**/venv/
+**/__pycache__/
+*.keras
+*.pkl
+.DS_Store
